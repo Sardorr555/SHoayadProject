@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\source\repos\shoyan\shoyan\main.cpp(24,7): error C2065: 'IDC_MODAL': undeclared identifier
+C:\Users\User\source\repos\shoyan\shoyan\main.cpp(24,1): error C2051: case expression not constant
